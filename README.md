@@ -4,7 +4,7 @@
 我开了很多坑，不知道这个坑能不能填上
 
 ## 进度
-  - [x] 第一章  
+  - [x] [第一章 完人之问与心学之问](https://github.com/cuihee/readBook/tree/master/%E4%BA%94%E7%99%BE%E5%B9%B4%E6%9D%A5%E7%8E%8B%E9%98%B3%E6%98%8E_%E9%83%A6%E6%B3%A2(%E8%91%97)/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%AE%8C%E4%BA%BA%E4%B9%8B%E9%97%AE%E4%B8%8E%E5%BF%83%E5%AD%A6%E4%B9%8B%E9%97%AE)  
   - [ ] 第二章  
   - [ ] 第三章  
   - [ ] 第四章  
