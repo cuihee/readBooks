@@ -12,7 +12,7 @@ This site is published at <https://cuihee.github.io/readBooks/>
 
 [《五百年来王阳明》](https://github.com/cuihee/readBook/tree/master/%E4%BA%94%E7%99%BE%E5%B9%B4%E6%9D%A5%E7%8E%8B%E9%98%B3%E6%98%8E_%E9%83%A6%E6%B3%A2(%E8%91%97))  
 
-《3D数学基础：图形与游戏开发》  
+[《3D数学基础：图形与游戏开发》](https://github.com/cuihee/readBooks/tree/master/3D%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%EF%BC%9A%E5%9B%BE%E5%BD%A2%E4%B8%8E%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91)  
   
 《研究是一门艺术》  
 
