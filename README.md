@@ -17,3 +17,14 @@ This site is published at <https://cuihee.github.io/readBooks/>
 《研究是一门艺术》  
 
 《从一到无穷大》
+
+《自控力合集》（不确定）
+
+《毛泽东选集》
+
+## 贡献
+
+1. 你需要 fork这个项目
+2. 你需要 在你的fork版本上修改
+3. 你需要 将你的修改版new pull request
+4. 我需要 合并你的request到这个项目
