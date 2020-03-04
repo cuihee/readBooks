@@ -8,7 +8,8 @@ This site is published at <https://cuihee.github.io/readBooks/>
 
 ## 已完成
 
--。-  
+《用流程解放管理》章义伍  
+《中国企业创新哲学》潘诚  
 
 ## 开坑计划  
 
